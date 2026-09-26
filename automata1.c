@@ -140,7 +140,7 @@ int main(void)
         return 1;
 
     if (verifica(palabra) && esPalabraLeng(palabra)) {
-        printf("\nCadena global VALIDA\n");
+        printf("\nCadena VALIDA\n");
         clasificarCadenaCompleta(palabra);
     } else {
         printf("\nCadena INVALIDA segun el automata.\n");
