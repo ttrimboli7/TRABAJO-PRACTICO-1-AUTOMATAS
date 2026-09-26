@@ -128,7 +128,7 @@ void clasificarCadenaCompleta(const char *cadena)
     printf("\n--- Resumen ---\n");
     printf("Decimales  : %d\n", dec);
     printf("Octales    : %d\n", oct);
-    printf("Hexadecim. : %d\n", hex);
+    printf("Hexadecimal : %d\n", hex);
 }
 
 int main(void)
